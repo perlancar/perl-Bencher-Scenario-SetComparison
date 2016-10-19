@@ -1,5 +1,11 @@
 Revision history for Bencher-Scenario-SetComparison
 
+0.002   2016-10-19 (PERLANCAR)
+
+        - [build] Rebuild with updated PWP:Bencher::Scenario that produces
+          lib/Bencher/ScenarioR/* files.
+
+
 0.001   2016-10-19 (PERLANCAR)
 
         - First release.

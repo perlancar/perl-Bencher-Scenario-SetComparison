@@ -30,7 +30,7 @@ our $scenario = {
 1;
 # ABSTRACT:
 
-=head1 DESCRIPTION
+=head1 prepend:DESCRIPTION
 
 TODO: include more set modules.
 
